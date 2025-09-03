@@ -1,6 +1,6 @@
 # Claude College
 
-This is a project in the Claude Projects environment. Aside from the conversations it is entirely defined by the project instructions so that is all that is here in GitHub. This was inspired by a comment from Dwarkesh Patel about how he studies topics in preparation for interviews. I had Claude write these as a summary of a long conversation. They are over precise but that hasn't been an issue so I haven't changed them much from what Claude wrote. In conversations they are producing the teaching method I was going for and Claude isn't actually trying too hard to follow these like a script. It seems to have gotten the general idea and gone with it.
+This is a project in the Claude Projects environment. Aside from the conversations it is entirely defined by the project instructions so that is all that is here in GitHub. This was inspired by a comment from Dwarkesh Patel about how he studies topics in preparation for interviews. I had Claude write these as a summary of a long conversation. They are over precise but that hasn't been an issue so I haven't changed them much from what Claude wrote. In conversations they are producing the teaching method I was going for and Claude isn't actually trying too hard to follow these like a script. It seems to have gotten the general idea and gone with it. Part of that may be because CLaude wrote these sort of in the wrong voice. They're directed towards the user rather than Claude.
 
 # Project Instructions
 
